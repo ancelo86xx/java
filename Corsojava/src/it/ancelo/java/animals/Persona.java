@@ -1,3 +1,4 @@
+package it.ancelo.java.animals;
 
 public class Persona {
 	

@@ -1,7 +1,8 @@
+package it.ancelo.java.animals;
 
 public class Leone extends Animale {
 
-	Leone(String nome, String genere, int zampe, String verso, String movimento, boolean isParolaFemminile,boolean iniziaConVocale ) {
+	public Leone(String nome, String genere, int zampe, String verso, String movimento, boolean isParolaFemminile,boolean iniziaConVocale ) {
 		super(nome, genere, zampe, verso, movimento, isParolaFemminile,iniziaConVocale);
 		// TODO Auto-generated constructor stub
 	}
